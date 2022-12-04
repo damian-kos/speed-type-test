@@ -4,8 +4,8 @@ Tkinter based program which allows you to measure your typing speed.
 
 ## Features
 
--- Counts Words Per Minute
--- Counts Characters Per Minute
+- Counts Words Per Minute
+- Counts Characters Per Minute
 
 ## Important notes
 
