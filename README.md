@@ -1,4 +1,4 @@
-## Speed type test 
+# Speed type test 
 
 Tkinter based program which allows you to measure your typing speed. 
 
@@ -6,6 +6,10 @@ Tkinter based program which allows you to measure your typing speed.
 
 - Counts Words Per Minute
 - Counts Characters Per Minute
+- Highlights current words
+- Highlights mistakes
+- Highlights correct words
+- 60 seconds timer
 
 ## Important notes
 
